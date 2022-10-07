@@ -6,3 +6,6 @@ Day 2 :
 
 Day 3 :
    1.Trading 2.Project manager 3.array of integers 4.Add binary 5.Minimum number of jumps to reach the end of array 6.Mirror image 7.Permutations 8.Anagram 9.regular expression 10.Convert one word to another words
+
+Day 4:
+  1.string Array 2.Staff users 3.Smaller Number 4.Palindrome 5.Array of integers 6.Function delchar 7.Vowel Strings 8.Roman to Integer 9.season changes 10.Scramble String
